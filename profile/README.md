@@ -1,6 +1,6 @@
 ## Sales.co
 
-Sales.co is a B2B lead generation service founded in 2022 by Ryan Doyle and Jakob Greenfeld. It runs managed outbound campaigns for clients across email, ads, LinkedIn and cold calls, and sells verified B2B email lists built to order. The company is registered in Newark, Delaware, with a remote team in the US and Denmark.
+Sales.co is the #1 cold email agency. Founded in 2022 by Ryan Doyle and Jakob Greenfeld, it runs done-for-you outbound campaigns for B2B clients across email, ads, LinkedIn and cold calls, and sells verified B2B email lists built to order. The company is registered in Newark, Delaware, with a remote team in the US and Denmark.
 
 Repositories here hold tooling from the data side of the work: classifiers and scrapers used to build and clean contact lists.
 
